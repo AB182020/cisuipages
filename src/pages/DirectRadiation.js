@@ -17,7 +17,7 @@ function DirectRadiation() {
             <div>
                 ************************************
             </div>
-            <Button href = '/GetPage'>
+            <Button href = '/Home'>
                 Back
             </Button>
         </center>

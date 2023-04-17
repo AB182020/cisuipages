@@ -19,7 +19,7 @@ export default function IndirectRadiation() {
                 <div>
                     ************************************
                 </div>
-                <Button href = '/GetPage'>
+                <Button href = '/Home'>
                     Back
                 </Button>
             </center>

@@ -5,15 +5,16 @@ import Button from "react-bootstrap/Button";
 import {Stack} from "react-bootstrap";
 import DirectRadiation from "./DirectRadiation";
 
-function Country() {
+function Home()
+{
     return (
         <center>
-            <h1 className="display-5 fw-bold">Choose Year</h1>
+            <h1 className="display-5 fw-bold">Choose Country</h1>
             <div>
-            1980
+                Country 1
             </div>
             <div>
-              1981
+               Country 2
             </div>
             <div>
                 ************************************
@@ -24,5 +25,3 @@ function Country() {
         </center>
     );
 }
-
-export default Country;

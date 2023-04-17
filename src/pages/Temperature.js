@@ -18,7 +18,7 @@ export default function Temperature() {
                 <div>
                     ************************************
                 </div>
-                <Button href = '/GetPage'>
+                <Button href = '/Home'>
                     Back
                 </Button>
             </center>
